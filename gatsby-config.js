@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Sdvogue`,
+    description: `Sdvogue is the most luxurios bespoke tailoring company in Nigeria. Trendy for the fashion savvy`,
+    author: `@mbappaicom`,
+    siteUrl: `https://sdvogue.ng`,
   },
   plugins: [
     `gatsby-plugin-image`,

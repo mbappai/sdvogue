@@ -8,15 +8,19 @@ const Contact: React.FC = () =>{
         <ul>
             <li>
                 <span>Phone:</span>
-                <span>09023234983</span>    
+                <span>09097386483</span>    
             </li>
             <li>
                 <span>Instagram:</span>
-                <span>sdvogue.ng</span>    
+                <span>@sd_vogue</span>    
             </li>
             <li>
                 <span>Location:</span>
-                <span>No 5 Tukur Road</span>    
+                <span>No 48, Hadeja Road, Kano State</span>    
+            </li>
+            <li>
+                <span>Email:</span>
+                <span>info@sdvogue.com</span>    
             </li>
         </ul>
     </div>
